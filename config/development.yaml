@@ -1,0 +1,9 @@
+app:
+  env:  "development"
+  port: 9091
+  debug: true
+log:
+  level: "debug"
+  format: "json"
+authen:
+  secret: "qwertyuiopasdfghjkl"
